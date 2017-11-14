@@ -1,0 +1,22 @@
+{
+  "name": "Pallex_AddConsignment",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Deveel.Workflows": "1.0.0.0",
+    "Microsoft.Activities.UnitTesting": "2.0.6.9",
+    "UiPath.Core.Activities": "17.1.6435.21841",
+    "UiPath.Excel.Activities": "2.0.6479.13204",
+    "UiPath.Mail.Activities": "1.1.6382.14550",
+    "UiPath.PDF.Activities": "1.0.6479.13204",
+    "UiPath.WebAPI.Activities": "1.1.6479.13209"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6498.12628",
+  "projectVersion": "1.0.6519.31872",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
