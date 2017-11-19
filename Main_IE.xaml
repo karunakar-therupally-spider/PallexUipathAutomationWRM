@@ -98,7 +98,7 @@
                   <OutArgument x:TypeArguments="x:String" x:Key="consignmentCreated" />
                   <OutArgument x:TypeArguments="x:String" x:Key="customerPrice" />
                   <OutArgument x:TypeArguments="x:String" x:Key="result" />
-                  <InOutArgument x:TypeArguments="ui:Browser" x:Key="uib3">[uib]</InOutArgument>
+                  <InArgument x:TypeArguments="ui:Browser" x:Key="uib3">[uib]</InArgument>
                 </ui:InvokeWorkflowFile.Arguments>
               </ui:InvokeWorkflowFile>
             </Sequence>
@@ -106,7 +106,7 @@
         </ui:OpenBrowser.Body>
       </ui:OpenBrowser>
     </Sequence>
-    <sads:DebugSymbol.Symbol>dytEOlxQYWxsZXhVaXBhdGhBdXRvbWF0aW9uLXdvcmtcTWFpbl9JRS54YW1sE0MDbg4CAQFFNEU/AgEFRjRGSgIBBEc0R8ABAgEDSDRIZAIBAkwFbBACAQZNB2sYAgEHTa4BTbUBAgEYTboBTcEBAgEWUw1oGAIBCFgPWIcBAgEVWQ9fJwIBDWAPZycCAQlbRVtPAgETXEZcUAIBEV1MXVECAQ9ZwQFZ2QECAQ5lTGVRAgELYMMBYOsBAgEK</sads:DebugSymbol.Symbol>
+    <sads:DebugSymbol.Symbol>dyZEOlxQYWxsZXhVaXBhdGhBdXRvbWF0aW9uXE1haW5fSUUueGFtbBNDA24OAgEBRTRFPwIBBUY0RkoCAQRHNEfAAQIBA0g0SGQCAQJMBWwQAgEGTQdrGAIBB02uAU21AQIBGE26AU3BAQIBFlMNaBgCAQhYD1iHAQIBFVkPXycCAQ1gD2cnAgEJW0VbTwIBE1xGXFACARFdTF1RAgEPWcEBWdkBAgEOZUllTgIBC2DDAWDrAQIBCg==</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
@@ -135,7 +135,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Main_1" sap:VirtualizedContainerService.HintSize="498,1347" />
+      <sap2010:ViewStateData Id="Main_1" sap:VirtualizedContainerService.HintSize="498,827" />
     </sap2010:ViewStateManager>
   </sap2010:WorkflowViewState.ViewStateManager>
 </Activity>
